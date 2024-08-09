@@ -268,7 +268,7 @@ class parserinfo(object):
                 ("Fri", "Friday"),
                 ("Sat", "Saturday"),
                 ("Sun", "Sunday")]
-    MONTHS = [("Jan", "January"),
+    MONTHS = [("Jan", "januari"),
               ("Feb", "February"),      # TODO: "Febr"
               ("Mar", "March"),
               ("Apr", "April"),
